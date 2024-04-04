@@ -12,7 +12,7 @@ O PDF Converter é uma ferramenta simples e eficiente para converter arquivos PD
 ## Instalação e Uso 🚀
 
 1. **Clone o repositório:**
-```bash
+
 git clone https://github.com/chaos4455/python-pdf-converter.git
 
 ## Conceito do Projeto 🧠
